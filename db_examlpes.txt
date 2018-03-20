@@ -1,0 +1,5 @@
+debug.json
+{"Teacher": [{"ID":1,"Subjects":[1,2,3]}], "Subjects":[{"ID":1,"Name":"Math","Hours":24,"Students":[1,2]},{"ID":2,"Name":"Physics","Hours":24,"Students":[1]},{"ID":3,"Name":"Chemistry","Hours":24,"Students":[2]}],"Students":[{"ID":1,"Name":"Jerry"},{"ID":2,"Name":"Chris"}]}
+
+db.json
+{"Teachers": [{"ID":1,"Name":"Mr.White","Rank":"Junior Teacher","Hours":0,"Subjects":[1,2,3]}], "Subjects":[{"ID":1,"Name":"Math","Hours":24,"Students":[1,2]},{"ID":2,"Name":"Physics","Hours":24,"Students":[1]},{"ID":3,"Name":"Chemistry","Hours":24,"Students":[2]}],"Students":[{"ID":1,"Name":"Jerry","Group":"6.1216-1","Book":222,"Mark":5},{"ID":2,"Name":"Chris","Group":"6.1216-1","Book":223,"Mark":5}]}
